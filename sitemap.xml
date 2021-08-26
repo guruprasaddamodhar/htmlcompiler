@@ -1,44 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset>
-    
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
   <loc>https://htmlcompiler.net/</loc>
-  <lastmod>2021-08-19T14:48:11+00:00</lastmod>
+  <lastmod>2021-08-26T17:22:18+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://htmlcompiler.net/DISCLAIMER_htmlcompiler.html</loc>
-  <lastmod>2021-08-19T14:48:11+00:00</lastmod>
+  <lastmod>2021-08-26T17:22:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://htmlcompiler.net/TERMS_AND_CONDITIONS_htmlcompiler.html</loc>
-  <lastmod>2021-08-19T14:48:11+00:00</lastmod>
+  <lastmod>2021-08-26T17:22:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://htmlcompiler.net/CONTACT_US_htmlcompiler.html</loc>
-  <lastmod>2021-08-19T14:48:11+00:00</lastmod>
+  <lastmod>2021-08-26T17:22:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://htmlcompiler.net/PRIVACY_POLICY_htmlcompiler.html</loc>
-  <lastmod>2021-08-19T14:48:11+00:00</lastmod>
+  <lastmod>2021-08-26T17:22:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://htmlcompiler.net/blog_htmlcompiler.html</loc>
-  <lastmod>2021-08-19T14:48:11+00:00</lastmod>
+  <lastmod>2021-08-26T17:22:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://htmlcompiler.net/sitemap.htm</loc>
-  <lastmod>2021-08-19T14:48:11+00:00</lastmod>
+  <lastmod>2021-08-26T17:22:18+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://htmlcompiler.net/index.html</loc>
-  <lastmod>2021-08-19T14:48:11+00:00</lastmod>
+  <lastmod>2021-08-26T17:22:18+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
