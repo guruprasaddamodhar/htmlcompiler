@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^htmlcompiler.net 
+RewriteRule (.*) https://htmlcompiler.net/$1 [R=301,L]
+
