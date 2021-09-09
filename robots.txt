@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Allow: /sitemap.htm
-Sitemap: https://htmlcompiler.net/sitemap.xml
+Sitemap: https://www.htmlcompiler.net/sitemap.xml
